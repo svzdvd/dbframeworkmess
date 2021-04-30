@@ -1,0 +1,1 @@
+Testing interactions between JdbcTemplate and Hibernate / JPA
